@@ -1,0 +1,3 @@
+
+
+My first time learning about git and gitHub and its amazing how to store data in gitHub so that you can retrieve it later in the future incase things go south for you ... 
